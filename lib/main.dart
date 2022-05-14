@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
                           width: 15,
                         ),
                         Text(
-                          "+1 (347) 228 4544",
+                          "+X (XXX) XXX XXXX",
                           style: TextStyle(
                               fontFamily: "SourceSansPro",
                               fontSize: 30,
@@ -88,7 +88,7 @@ class MyApp extends StatelessWidget {
                           width: 15,
                         ),
                         Text(
-                          "asamiyilmaz05@gmail.com",
+                          "XXXXXXXXXXXX@gmail.com",
                           style: TextStyle(
                               fontFamily: "SourceSansPro",
                               fontSize: 30,
